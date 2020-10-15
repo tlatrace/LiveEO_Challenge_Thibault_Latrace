@@ -1,5 +1,5 @@
 # LiveEO_Challenge_Thibault_Latrace
-This repository aims at gathering all the ressources and works on the LiveEO Data Science challenge.
+
 ## Configuration
 Firstly, clone this GitHub repository on your machine.
 To install the environment I used for this challenge, you will need [Anaconda](https://docs.anaconda.com/anaconda/install/).
