@@ -13,6 +13,12 @@ Then, open your IDE, open the notebook file and choose the kernel associated to 
 
 You can now run the notebook. You will find in it an incorporated report where I explain everthing about my approach of the problem.
 
+Once you're done with the notebook, don't forget to remove the environment by running :
+
+```
+conda env remove -n LiveEO_challenge_env
+```
+
 I wish you a good reading !
 
 Thibault
